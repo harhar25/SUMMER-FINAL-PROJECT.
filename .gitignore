@@ -1,0 +1,7 @@
+# .gitignore
+*.csv
+*.pkl
+*.model
+__pycache__/
+*.log
+venv/
